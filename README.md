@@ -1,6 +1,6 @@
 # Tarik Aljauaie 
 **M.S. in Biotechnology - Johns Hopkins University**  
-*Bioinformatician | Genomics | Python | MySQL | Computaional Biology*
+*Bioinformatician | Genomics | Python | MySQL | Computational Biology*
 
 --- 
 
