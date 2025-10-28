@@ -8,3 +8,6 @@
 
 [LinkedIn](www.linkedin.com/in/tarikaljuaie)
 [Email Me](mailto:tare.aljo@gmail.com)
+
+---
+*This repo hosts my CV and any related information*
